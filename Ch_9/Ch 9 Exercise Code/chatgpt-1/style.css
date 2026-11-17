@@ -16,7 +16,7 @@ h1 {
   flex-direction: row;
   flex-wrap: wrap;
   list-style-type: none;
-  align-items: normal;
+  align-items: center;
   justify-content: end;
   height: 100px;
   width: 100%;
