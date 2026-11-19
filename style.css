@@ -19,7 +19,7 @@ h1 {
     border-radius: 6px;
 }
 
-/* Chapter 9: Flexbox Navigation Menu */
+/* Ch 9 Flexbox Navigation Menu */
 .main-nav ul {
     display: flex;
     flex-direction: row;
@@ -78,7 +78,7 @@ h1 {
     font-weight: bold;
 }
 
-/* Chapter 10: CSS Grid & Hover Cards */
+/* Ch 10: CSS Grid & Hover Cards */
 .flower-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
